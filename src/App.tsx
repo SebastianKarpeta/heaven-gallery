@@ -14,7 +14,7 @@ function App() {
     <div className="App">
         <BrowserRouter>
             <Routes>
-                <Route path={`${urlSuffix}/login`} element={<Login />} />
+                <Route path="/heaven-gallery/login" element={<Login />} />
             </Routes>
         </BrowserRouter>
     </div>
