@@ -8,7 +8,7 @@ function App() {
 
     const urlSuffix = process.env.NODE_ENV === 'production'
         ? '/heaven-gallery'
-        : ''
+        : '/'
 
     return (
     <div className="App">
