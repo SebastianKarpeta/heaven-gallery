@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./heaven-gallery/static/css/main.9c618c74.css",
-    "main.js": "./heaven-gallery/static/js/main.6b0674d7.js",
-    "static/js/453.a5ebb813.chunk.js": "./heaven-gallery/static/js/453.a5ebb813.chunk.js",
-    "index.html": "./heaven-gallery/index.html",
-    "main.9c618c74.css.map": "./heaven-gallery/static/css/main.9c618c74.css.map",
-    "main.6b0674d7.js.map": "./heaven-gallery/static/js/main.6b0674d7.js.map",
-    "453.a5ebb813.chunk.js.map": "./heaven-gallery/static/js/453.a5ebb813.chunk.js.map"
+    "main.css": "./static/css/main.9c618c74.css",
+    "main.js": "./static/js/main.bd5fad54.js",
+    "static/js/453.a5ebb813.chunk.js": "./static/js/453.a5ebb813.chunk.js",
+    "index.html": "./index.html",
+    "main.9c618c74.css.map": "./static/css/main.9c618c74.css.map",
+    "main.bd5fad54.js.map": "./static/js/main.bd5fad54.js.map",
+    "453.a5ebb813.chunk.js.map": "./static/js/453.a5ebb813.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c618c74.css",
-    "static/js/main.6b0674d7.js"
+    "static/js/main.bd5fad54.js"
   ]
 }
