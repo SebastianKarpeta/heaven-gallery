@@ -9,7 +9,7 @@ function App() {
     <div className="App">
         <BrowserRouter>
             <Routes>
-                <Route path="/" element={<Login />} />
+                <Route path="/heaven-gallery/" element={<Login />} />
             </Routes>
         </BrowserRouter>
     </div>
