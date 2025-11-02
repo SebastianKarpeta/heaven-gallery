@@ -4,11 +4,11 @@ import './App.css';
 import Login from './Login.jsx';
 
 function App() {
-    console.log(process.env.NODE_ENV);
-
     const urlSuffix = process.env.NODE_ENV === 'production'
         ? '/heaven-gallery'
-        : '/'
+        : ''
+
+    console.log(`${urlSuffix}/login`);
 
     return (
     <div className="App">
