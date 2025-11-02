@@ -1,7 +1,7 @@
 {
   "name": "heaven-gallery",
   "version": "0.1.0",
-  "homepage": "https://github.com/SebastianKarpeta/heaven-gallery",
+  "homepage": "https://sebastiankarpeta.github.io//heaven-gallery/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -47,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "html-webpack-plugin": "^5.6.4"
   }
 }
