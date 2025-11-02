@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SebastianKarpeta/heaven-gallery/static/css/main.9c618c74.css",
+    "main.js": "/SebastianKarpeta/heaven-gallery/static/js/main.353f8f69.js",
+    "static/js/453.a5ebb813.chunk.js": "/SebastianKarpeta/heaven-gallery/static/js/453.a5ebb813.chunk.js",
+    "index.html": "/SebastianKarpeta/heaven-gallery/index.html",
+    "main.9c618c74.css.map": "/SebastianKarpeta/heaven-gallery/static/css/main.9c618c74.css.map",
+    "main.353f8f69.js.map": "/SebastianKarpeta/heaven-gallery/static/js/main.353f8f69.js.map",
+    "453.a5ebb813.chunk.js.map": "/SebastianKarpeta/heaven-gallery/static/js/453.a5ebb813.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c618c74.css",
+    "static/js/main.353f8f69.js"
+  ]
+}
